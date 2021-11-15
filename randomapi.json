@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Loyce Flatley",
+        "age": 25,
+        "gender": "Hombre",
+        "document": "est.xlsx"
+    },
+    {
+        "name": "Bethel Bartell",
+        "age": 9,
+        "gender": "Hombre",
+        "document": "maiores.jpg"
+    },
+    {
+        "name": "Margaret Olson Sr.",
+        "age": 9,
+        "gender": "Hombre",
+        "document": "dolor.docx"
+    },
+    {
+        "name": "Erich Ankunding",
+        "age": 13,
+        "gender": "Hombre",
+        "document": "odit.docx"
+    },
+    {
+        "name": "Ms. Vaughn Mertz",
+        "age": 24,
+        "gender": "Hombre",
+        "document": "illo.docx"
+    }
+]
